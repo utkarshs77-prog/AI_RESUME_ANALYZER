@@ -16,16 +16,19 @@ The application evaluates the resume, identifies skill gaps, provides improvemen
 - 🔍 Skill Gap Detection
 - 💡 Smart Resume Improvement Suggestions
 - 💼 Job Recommendations
-- 📑 Professional PDF Report Generation
-- 🖥️ Clean and User-Friendly Streamlit Interface
+- 📑 Downloadable PDF Report
+- 🎨 Professional and User-Friendly UI
 
 ## 🧠 Resume Analysis
 
-The application analyzes the uploaded resume and compares it with the target job description to identify relevant skills, missing skills, and areas that can be improved.
+The application analyzes the uploaded resume and provides:
 
-## 📊 ATS Score Analysis
-
-The application provides an ATS-style score based on the match between the resume and the target job description.
+- ATS compatibility score
+- Resume section analysis
+- Skill matching
+- Missing skills
+- Skill gap analysis
+- Resume improvement suggestions
 
 ## 🔍 Skill Gap Analysis
 
@@ -39,7 +42,7 @@ Provides actionable recommendations to improve the resume and increase its relev
 
 Suggests suitable job roles based on the resume profile and analyzed skills.
 
-## 📑 PDF Report
+## 📄 PDF Report
 
 Generates a downloadable PDF report containing the resume analysis results.
 
@@ -49,7 +52,7 @@ Generates a downloadable PDF report containing the resume analysis results.
 - 🎈 Streamlit
 - 📄 PDF Processing
 - 📊 Data Analysis
-- 📝 Natural Language Processing
+- 🧠 Natural Language Processing
 - 📑 ReportLab
 
 ## 💻 Run Locally
@@ -58,6 +61,21 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/utkarsh77-prog/AI_RESUME_ANALYZER.git
+cd AI_RESUME_ANALYZER
+```
+
+Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run the Streamlit application:
+
+```bash
+streamlit run app.py
+```
+
 ## 📸 Project Screenshots
 
 ### 🏠 AI Resume Analyzer Dashboard
@@ -71,3 +89,8 @@ git clone https://github.com/utkarsh77-prog/AI_RESUME_ANALYZER.git
 ### 💼 Job Recommendations & PDF Report
 
 ![Job Recommendations & PDF Report](./recommendations.png)
+
+## 👨‍💻 Project
+
+**AI Resume Analyzer**  
+Built using Python, Streamlit, NLP, PDF Processing and ReportLab.
