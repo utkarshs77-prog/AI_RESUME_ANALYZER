@@ -69,7 +69,7 @@ git clone https://github.com/utkarsh77-prog/AI_RESUME_ANALYZER.git
 ## 📸 Project Screenshots
 
 ### 🏠 AI Resume Analyzer Dashboard
-![AI Resume Analyzer Dashboard](./Screenshot%202026-08-20%20115100.png)
+![AI Resume Analyzer Dashboard](./dashboard.png)
 
 ### 📊 Resume Analysis & Skill Gap
 ![Resume Analysis](./Screenshot%202026-08-20%20115156.png)
