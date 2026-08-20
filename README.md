@@ -88,7 +88,7 @@ streamlit run app.py
 
 ### 💼 Job Recommendations & PDF Report
 
-![Job Recommendations & PDF Report](./recommendations.png)
+![Job Recommendations & PDF Report](./recommendation.png)
 
 ## 👨‍💻 Project
 
