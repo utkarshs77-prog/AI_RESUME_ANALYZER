@@ -137,6 +137,25 @@ Users can download the report and use it for further resume improvement.
 - 📑 **ReportLab**
 
 ---
+## 📸 Project Screenshots
+
+### 🏠 AI Resume Analyzer Dashboard
+
+![AI Resume Analyzer Dashboard](./dashboard.png)
+
+### 📊 Resume Analysis & Skill Gap
+
+![Resume Analysis & Skill Gap](./analysis.png)
+
+### 💼 Job Recommendations & PDF Report
+
+![Job Recommendations & PDF Report](./recommendation.png)
+
+## 👨‍💻 Project
+
+**AI Resume Analyzer**  
+Built using Python, Streamlit, NLP, PDF Processing and ReportLab.
+
 
 ## 📂 Project Structure
 
@@ -151,19 +170,6 @@ AI_RESUME_ANALYZER/
 ├── analysis.png
 └── recommendation.png
 
-## 📸 Project Screenshots
-
-### 🏠 AI Resume Analyzer Dashboard
-
-![AI Resume Analyzer Dashboard](./dashboard.png)
-
-### 📊 Resume Analysis & Skill Gap
-
-![Resume Analysis & Skill Gap](./analysis.png)
-
-### 💼 Job Recommendations & PDF Report
-
-![Job Recommendations & PDF Report](./recommendation.png)
 
 ## 👨‍💻 Project
 
