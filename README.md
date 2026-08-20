@@ -58,3 +58,16 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/utkarsh77-prog/AI_RESUME_ANALYZER.git
+## 📸 Project Screenshots
+
+### 🏠 AI Resume Analyzer Dashboard
+
+![AI Resume Analyzer Dashboard](./dashboard.png)
+
+### 📊 Resume Analysis & Skill Gap
+
+![Resume Analysis & Skill Gap](./analysis.png)
+
+### 💼 Job Recommendations & PDF Report
+
+![Job Recommendations & PDF Report](./recommendations.png)
