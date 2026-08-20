@@ -65,5 +65,32 @@ Generates a downloadable report containing the resume analysis results.
 Clone the repository:
 
 ```bash
+We are looking for a Python Developer / Machine Learning Intern with strong programming and problem-solving skills. The candidate should have knowledge of Python, SQL, Machine Learning, Data Structures and Algorithms, Pandas, NumPy, and basic data analysis.
+
+Responsibilities:
+- Develop and maintain Python-based applications.
+- Build and test machine learning models.
+- Analyze and preprocess datasets using Pandas and NumPy.
+- Write efficient SQL queries and work with databases.
+- Implement data structures and algorithms to solve programming problems.
+- Develop simple APIs and integrate them with applications.
+- Debug code and improve application performance.
+- Work with Git and GitHub for version control.
+
+Requirements:
+- Strong knowledge of Python programming.
+- Understanding of Machine Learning fundamentals.
+- Knowledge of SQL and databases.
+- Familiarity with Pandas, NumPy, and basic data visualization.
+- Good understanding of Data Structures and Algorithms.
+- Knowledge of Git and GitHub.
+- Good communication and problem-solving skills.
+
+Preferred Skills:
+- Streamlit
+- REST APIs
+- Scikit-learn
+- Basic knowledge of cloud deployment
+- Interest in Artificial Intelligence and Generative AI
 git clone https://github.com/utkarsh77-prog/AI_RESUME_ANALYZER.git
 
